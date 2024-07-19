@@ -85,7 +85,6 @@ L'ordre de ciblage des vetement par le monstre est prédéfini mais pas connu pa
 ## Ambiance
 
 
-
 ## Vetement
 
 ### Chapeau Melon

@@ -1,1 +1,1 @@
-Game = Object::extend
+Game = Object::extend()
